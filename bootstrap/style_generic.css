@@ -1,0 +1,68 @@
+*{
+	    font-size:25px;
+		font-family:sans-serif;
+	  }
+	 a{
+			margin-right:20px;
+	  }
+	 .header{
+		background-color:rgba(21,121,111,.4);
+		margin:0px;
+		padding:0px;
+	 }
+	 .article{
+	  background-color:rgba(21,121,111,.4);
+	 }
+	 .one { 
+		background-color:rgba(10,10,10,1);//#f4511e; /* Orange */
+		color: #ffffff;
+	    margin:0px;
+	}
+	.two{
+		    //background-color:rgba(10,10,10,1);
+			background-color:rgba(21,11,11,1);
+			margin:0px;
+			color: black;
+
+	}
+	.active{
+		background:rgba(10,10,10,.2);
+		padding:10px;
+	}
+	.links{
+	    padding:10px;
+		display:inline-block;
+	}
+    .Login,.Signup,.notify
+	{
+		display:none;
+	}
+	.jumbotron
+	{
+	  margin:0px;
+	}
+	.Login-btn,.Signup-btn
+	{
+	  margin-right:5px;
+	  background-color:#deedfa;
+	}
+	.Auth
+	{
+		margin:0px;
+		padding:0px;
+		background-color:#ffdddd;
+	}
+	.Login,.SignUp
+	{
+		margin:0px;
+		padding:0px;
+	}
+	.Logo_msg
+	{
+		position:relative; 
+		top:30px;
+	}
+	.text-danger
+	{
+	  font-size:30px;
+	}
